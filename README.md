@@ -17,11 +17,30 @@ Face API.js integration for facial recognition
 
 ## Project Structure
 
-````
+```plaintext
+
 ## Project Structure
 
 ```plaintext
-FaceRecognitionAttendanceSystem/ ├── database/ ├── models/ ├── resources/ │ ├── assets/ │ ├── images/ │ ├── labels/ │ ├── lib/ │ └── pages/ │ ├── administrator/ │ ├── lecture/ │ └── login.php ├── index.php ├── .htaccess └── README.md
+FaceRecognitionAttendanceSystem/
+├── database/
+│   ├── attendance-db.sql
+│   └── database_connection.php
+├── models/
+├── resources/
+│   ├── assets/
+│   ├── images/
+│   ├── labels/
+│   ├── lib/
+│   └── pages/
+│       ├── administrator/
+│       ├── lecture/
+│       └── login.php
+├── index.php
+├── .htaccess
+└── README.md
+```
+
 
 ````
 
