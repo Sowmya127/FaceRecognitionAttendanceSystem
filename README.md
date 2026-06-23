@@ -19,8 +19,6 @@ Face API.js integration for facial recognition
 
 ```plaintext
 
-## Project Structure
-
 ```plaintext
 FaceRecognitionAttendanceSystem/
 ├── database/
@@ -44,7 +42,7 @@ FaceRecognitionAttendanceSystem/
 
 ````
 
-## **🚀 Setup Procedure**
+## 🚀 Setup Procedure
 
 Install XAMPP.
 Start Apache and MySQL.
