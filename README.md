@@ -37,13 +37,9 @@ FaceRecognitionAttendanceSystem/
 ├── .htaccess
 └── README.md
 ```
-
-
-````
-
 # Face Recognition Attendance System
 
-## **🚀 Setup Procedure**
+## 🚀 Setup Procedure
 
 1. Install XAMPP.
 2. Start Apache and MySQL.
@@ -51,9 +47,9 @@ FaceRecognitionAttendanceSystem/
 4. Place the project inside the XAMPP `htdocs` folder.
 5. Open the project in a browser.
 
-## **👥 User Roles**
+## 👥 User Roles
 
-### **Administrator**
+### Administrator
 
 The administrator can:
 
@@ -62,7 +58,7 @@ The administrator can:
 * Manage venues and lecturers
 * Capture student facial images for recognition
 
-### **Lecturer**
+### Lecturer
 
 The lecturer can:
 
@@ -71,23 +67,20 @@ The lecturer can:
 * View attendance records
 * Export attendance reports to Excel
 
-## **🔐 Credentials**
+## 🔐 Credentials
 
-### **Administrator**
+### Administrator
 
 **Email:** `admin@gmail.com`
 **Password:** `@admin_`
 
-### **Lecturer**
+### Lecturer
 
 **Email:** `mark@gmail.com`
 **Password:** `@mark_`
 
 > If the default lecturer account does not work, create a new lecturer account through the administrator panel.
 
-### Lecturer
 
-Email: `mark@gmail.com`
-Password: `@mark_`
+````
 
-If the default lecturer account does not work, create a new lecturer account through the administrator panel.
