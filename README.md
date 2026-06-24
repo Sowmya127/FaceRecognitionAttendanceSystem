@@ -79,7 +79,7 @@ The lecturer can:
 **Email:** `mark@gmail.com`
 **Password:** `@mark_`
 
-> If the default lecturer account does not work, create a new lecturer account through the administrator panel.
+If the default lecturer account does not work, create a new lecturer account through the administrator panel.
 
 
 ````
