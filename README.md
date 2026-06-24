@@ -19,7 +19,6 @@ Face API.js integration for facial recognition
 
 ```plaintext
 
-```plaintext
 FaceRecognitionAttendanceSystem/
 ├── database/
 │   ├── attendance-db.sql
